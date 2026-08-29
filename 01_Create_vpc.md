@@ -1,5 +1,5 @@
 
-This terraform script creates a vpc, with 2 subnets, a public and a private, creates an internet gateway that will give the vpc and the public subnet a route to the internet
+This terraform script creates a vpc, with 2 subnets, a public and a private, creates an internet gateway and routing tables that will give the vpc and the public subnet a route to the internet
 
 ```
 
