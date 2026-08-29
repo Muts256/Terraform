@@ -26,3 +26,14 @@ Some of the resources created during these labs may include:
 - IAM resources
 - Security groups
  - Other AWS services and infrastructure components
+
+#### Tools Used
+- Terraform
+- AWS
+- AWS CLI
+- WSL / Ubuntu
+- Git & GitHub
+- Visual Code
+
+#### Purpose
+This repository is primarily a learning and practice environment. The goal is to develop a better understanding of Terraform and gain hands-on experience creating and managing cloud infrastructure through code.
